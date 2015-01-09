@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [DBSuite]">
+  <parameter name="dbName" value="MS"/>
+  <test name="DBTest(failed)">
+    <parameter name="dbName" value="MS"/>
+    <classes>
+      <class name="com.atmecs.db.tests.TestDBConfig">
+        <methods>
+          <include name="testDBConnection"/>
+        </methods>
+      </class> <!-- com.atmecs.db.tests.TestDBConfig -->
+    </classes>
+  </test> <!-- DBTest(failed) -->
+</suite> <!-- Failed suite [DBSuite] -->

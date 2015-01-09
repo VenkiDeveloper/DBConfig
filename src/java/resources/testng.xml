@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="DBSuite">
+	<test name="DBTest">
+		<parameter name="dbName" value="MS" />
+		
+		<classes>
+			<class name="com.atmecs.db.tests.TestDBConfig" />
+		</classes>
+	</test>
+
+</suite>

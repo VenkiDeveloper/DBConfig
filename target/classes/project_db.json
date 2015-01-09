@@ -1,0 +1,17 @@
+{
+  "MS": {
+    "url": "atmecs_ms.com",
+    "username": "atmecs1",
+    "password": "12345"
+  },
+  "Oracle": {
+    "url": "atmecs_sql.com",
+    "username": "atmecs2",
+    "password": "12345"
+  },
+  "MySql": {
+    "url": "atmecs_mysql.com",
+    "username": "atmecs3",
+    "password": "12345"
+  }
+}
