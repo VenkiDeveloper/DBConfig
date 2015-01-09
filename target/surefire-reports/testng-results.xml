@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="DBSuite" duration-ms="31" started-at="2015-01-08T10:09:32Z" finished-at="2015-01-08T10:09:32Z">
+  <suite name="DBSuite" duration-ms="32" started-at="2015-01-09T07:04:35Z" finished-at="2015-01-09T07:04:35Z">
     <groups>
     </groups>
-    <test name="DBTest" duration-ms="31" started-at="2015-01-08T10:09:32Z" finished-at="2015-01-08T10:09:32Z">
+    <test name="DBTest" duration-ms="32" started-at="2015-01-09T07:04:35Z" finished-at="2015-01-09T07:04:35Z">
       <class name="com.atmecs.db.tests.TestDBConfig">
-        <test-method status="PASS" signature="testDBConnection()[pri:0, instance:com.atmecs.db.tests.TestDBConfig@71f2a7d5]" name="testDBConnection" duration-ms="15" started-at="2015-01-08T15:39:32Z" finished-at="2015-01-08T15:39:32Z">
+        <test-method status="PASS" signature="testDBConnection()[pri:0, instance:com.atmecs.db.tests.TestDBConfig@71f2a7d5]" name="testDBConnection" duration-ms="16" started-at="2015-01-09T12:34:35Z" finished-at="2015-01-09T12:34:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDBConnection -->
