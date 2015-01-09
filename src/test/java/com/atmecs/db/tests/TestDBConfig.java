@@ -13,7 +13,7 @@ public class TestDBConfig {
 //	@Parameters("dbName")
 	@Test
 	public void testDBConnection() {
-
+         //which reads the value from the maven pom.xml system config properties
 		String dbName = System.getProperty("dbName");
 		System.out.println("DBName="+dbName);
 		if (dbName.equals("all")) {
