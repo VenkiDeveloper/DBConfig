@@ -1,5 +1,5 @@
 package com.atmecs.db.pages;
-
+//Helper class to read the values from the json file
 public class DBHelper {
 
 	private String url;
