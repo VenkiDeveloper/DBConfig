@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.atmecs.db.tests.TestDBConfig">
+      <class name="com.atmecs.db.pages.WebTest">
         <methods>
-          <include name="testDBConnection"/>
+          <include name="testServer"/>
         </methods>
-      </class> <!-- com.atmecs.db.tests.TestDBConfig -->
+      </class> <!-- com.atmecs.db.pages.WebTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -2,8 +2,7 @@
 
 <suite name="DBSuite">
 	<test name="DBTest">
-		<parameter name="dbName" value="MS" />
-		
+		<!-- <parameter name="dbName" value="Ms" /> -->
 		<classes>
 			<class name="com.atmecs.db.tests.TestDBConfig" />
 		</classes>
