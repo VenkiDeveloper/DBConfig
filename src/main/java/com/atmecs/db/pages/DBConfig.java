@@ -1,6 +1,5 @@
 package com.atmecs.db.pages;
 
-import com.google.gson.JsonArray;
 
 public class DBConfig {
 
